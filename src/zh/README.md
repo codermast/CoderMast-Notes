@@ -1,9 +1,9 @@
 ---
 home: true
 icon: home
-title: CoderMast
+title: 项目主页
 heroImage: /logo.svg
-heroText: CoderMast的学习笔记站点
+heroText: 项目名称
 tagline: 你可以在这里放置或是整个项目的描述。
 actions:
   - text: 使用指南 💡
