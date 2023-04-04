@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as _,a0 as c}from"./framework-46f429a7.js";const o={},s=c("p",null,"功能详情...",-1),a=[s];function n(r,l){return t(),_("div",null,a)}const f=e(o,[["render",n],["__file","ray.html.vue"]]);export{f as default};
