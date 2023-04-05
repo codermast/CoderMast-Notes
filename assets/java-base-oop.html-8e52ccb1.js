@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as o,a0 as a,a1 as s}from"./framework-bc131ee8.js";const c={},r=a("h1",{id:"java基础-面向对象",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#java基础-面向对象","aria-hidden":"true"},"#"),s(" Java基础 - 面向对象")],-1),n=[r];function _(d,i){return t(),o("div",null,n)}const l=e(c,[["render",_],["__file","java-base-oop.html.vue"]]);export{l as default};

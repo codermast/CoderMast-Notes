@@ -1,0 +1,1 @@
+import{_ as e,W as r,X as s,a0 as a,a1 as t}from"./framework-bc131ee8.js";const c={},o=a("h1",{id:"java基础-基本语法",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#java基础-基本语法","aria-hidden":"true"},"#"),t(" Java基础 - 基本语法")],-1),n=[o];function _(d,i){return r(),s("div",null,n)}const l=e(c,[["render",_],["__file","java-base-basic-grammar.html.vue"]]);export{l as default};
