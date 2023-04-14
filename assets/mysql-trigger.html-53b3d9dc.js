@@ -1,0 +1,1 @@
+import{_ as t,W as r,X as a,Z as e,$ as s}from"./framework-a0cce298.js";const c={},o=e("h1",{id:"触发器",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#触发器","aria-hidden":"true"},"#"),s(" 触发器")],-1),n=[o];function _(d,i){return r(),a("div",null,n)}const h=t(c,[["render",_],["__file","mysql-trigger.html.vue"]]);export{h as default};

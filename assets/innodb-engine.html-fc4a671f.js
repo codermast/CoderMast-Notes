@@ -1,0 +1,1 @@
+import{_ as n,W as o,X as t,Z as e,$ as a}from"./framework-a0cce298.js";const c={},r=e("h1",{id:"innodb引擎",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#innodb引擎","aria-hidden":"true"},"#"),a(" InnoDB引擎")],-1),s=[r];function d(i,_){return o(),t("div",null,s)}const l=n(c,[["render",d],["__file","innodb-engine.html.vue"]]);export{l as default};

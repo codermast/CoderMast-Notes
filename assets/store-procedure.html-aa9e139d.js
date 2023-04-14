@@ -1,0 +1,1 @@
+import{_ as r,W as t,X as o,Z as e,$ as a}from"./framework-a0cce298.js";const c={},s=e("h1",{id:"存储过程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#存储过程","aria-hidden":"true"},"#"),a(" 存储过程")],-1),n=[s];function _(d,i){return t(),o("div",null,n)}const l=r(c,[["render",_],["__file","store-procedure.html.vue"]]);export{l as default};
