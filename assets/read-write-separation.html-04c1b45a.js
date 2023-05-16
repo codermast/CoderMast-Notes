@@ -1,0 +1,1 @@
+import{_ as a,W as t,X as r,Z as e,$ as s}from"./framework-a0cce298.js";const o={},c=e("h1",{id:"mysql运维-读写分离",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mysql运维-读写分离","aria-hidden":"true"},"#"),s(" MySQL运维 - 读写分离")],-1),n=[c];function _(d,i){return t(),r("div",null,n)}const h=a(o,[["render",_],["__file","read-write-separation.html.vue"]]);export{h as default};
