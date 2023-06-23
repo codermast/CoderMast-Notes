@@ -1,0 +1,1 @@
+import{_ as a,W as s,X as r,Z as e,$ as t}from"./framework-a0cce298.js";const d={},c=e("h1",{id:"redis进阶-键值设计",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#redis进阶-键值设计","aria-hidden":"true"},"#"),t(" Redis进阶 - 键值设计")],-1),n=[c];function i(o,_){return s(),r("div",null,n)}const h=a(d,[["render",i],["__file","redis-advance-key-value-design.html.vue"]]);export{h as default};

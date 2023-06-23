@@ -1,0 +1,1 @@
+import{_ as a,W as s,X as r,Z as e,$ as t}from"./framework-a0cce298.js";const c={},d=e("h1",{id:"redis进阶-lua语法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#redis进阶-lua语法","aria-hidden":"true"},"#"),t(" Redis进阶 - Lua语法")],-1),n=[d];function o(i,_){return s(),r("div",null,n)}const u=a(c,[["render",o],["__file","redis-advance-lua-language.html.vue"]]);export{u as default};

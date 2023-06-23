@@ -1,0 +1,1 @@
+import{_ as a,W as t,X as c,Z as e,$ as s}from"./framework-a0cce298.js";const r={},d=e("h1",{id:"redis进阶-多级缓存",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#redis进阶-多级缓存","aria-hidden":"true"},"#"),s(" Redis进阶 - 多级缓存")],-1),i=[d];function n(o,_){return t(),c("div",null,i)}const h=a(r,[["render",n],["__file","redis-advance-multi-level-cache.html.vue"]]);export{h as default};
